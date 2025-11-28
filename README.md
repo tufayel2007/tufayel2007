@@ -17,7 +17,7 @@ _Digital Craftsman (Developer / Programmer)_
 <!--Start Intro-->
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for React.js • Next.js • Tailwind CSS • HTML • CSS • JavaScriptS, Node.js • Express.js MongoDB • Firebase, REST API and Data Visualization. </p>
 
-- ✨ Student of life :)
+- ✨ Student of life :
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
 - 🏙 A lifetime insider and Mentor at [Exercism]
@@ -44,12 +44,11 @@ _Digital Craftsman (Developer / Programmer)_
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Mastering modern frontend development with React, Next.js, and TypeScript.</li>
+  <li>Exploring advanced backend development with Node.js and Express.</li>
+  <li>Improving skills in building scalable web apps using cloud services (AWS / Vercel).</li>
 </ul>
-  
-<h3 align="left">Latest Blog Posts</h3>
+
 <ul align="left">
   <li><a href="https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa">🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖</a></li>
   <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in <1 min🙂</a></li>
