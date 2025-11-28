@@ -108,7 +108,7 @@ _Digital Craftsman (Developer / Programmer)_
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/tufayel2007">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="./Tufayel2007/Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ.png" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
