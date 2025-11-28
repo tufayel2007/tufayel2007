@@ -124,6 +124,14 @@ _Digital Craftsman (Developer / Programmer)_
 </table>
 <br />
 
+## 📈 GitHub Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tufayel2007&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=18FF66&line=10FF00" 
+    alt="GitHub Activity Graph" 
+  />
+</p>
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
