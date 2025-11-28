@@ -167,7 +167,7 @@ _Digital Craftsman (Developer / Programmer)_
 </a>
 
 <a href="https://github.com/tufayel2007" target="_blank">
-<img src="./Tufayel2007/github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+<img src="./Tufayel2007/github.png" width=50 height=50 alt="Tufayel2007" style="margin-bottom: 5px;" />
 </a>
 
 <a href="" target="_blank">
@@ -175,7 +175,7 @@ _Digital Craftsman (Developer / Programmer)_
 </a>
 
 <a href="" target="_blank">
-<img src="./Tufayel2007/dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
+<img src="./Tufayel2007/dev_to.png" width=50 height=50 alt="Tufayel2007" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
