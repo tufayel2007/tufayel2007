@@ -116,7 +116,7 @@ _Digital Craftsman (Developer / Programmer)_
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/tufayel2007">
-          <img align="center" src="./Tufayel2007/stas1.png" alt="Top Repo" />
+          <img align="center" src="./Tufayel2007/Sᴛʀᴇᴀᴋ Sᴛᴀᴛs.png" alt="Top Repo" />
         </a>
       </p>
     </td>
