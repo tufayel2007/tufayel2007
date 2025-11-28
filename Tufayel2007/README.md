@@ -1,6 +1,6 @@
 <!--Banner-->
 
-![Kiran1689 Banner Image](./banner.png)
+![tufayel2007 Banner Image](./banner.png)
 
 <!--Night Owl image-->
 <div>
