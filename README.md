@@ -15,7 +15,7 @@ _Digital Craftsman (Developer / Programmer)_
 <br />
 
 <!--Start Intro-->
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for React.js • Next.js • Tailwind CSS • HTML • CSS • JavaScriptS, Node.js • Express.js MongoDB • Firebase, REST API and Data Visualization. </p>
+<p align="left">I love creating user-friendly, responsive, and visually appealing web applications. I enjoy writing clean and efficient code to solve real-world problems. I am always eager to learn new technologies and continuously improve my skills. React.js • Next.js • Tailwind CSS • HTML • CSS • JavaScriptS, Node.js • Express.js MongoDB • Firebase, REST API and Data Visualization. </p>
 
 - ✨ Student of life :
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
