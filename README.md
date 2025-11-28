@@ -1,6 +1,6 @@
 <!--Banner-->
 
-![tufayel2007 Banner Image](./Tufayel2007/banner.png)
+![tufayel2007 Banner Image](./Tufayel2007/banner1.gif)
 
 <!--Night Owl image-->
 <div>
