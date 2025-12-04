@@ -23,7 +23,7 @@ _Digital Craftsman (Developer / Programmer)_
 - 🏙 A lifetime insider and Mentor at [Exercism]
 - ✍ I write technical blogs, You can visit my blog site at [DEV]
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio] (https://my-protflio-web.vercel.app/) for more details about me.
+- 💻 Visit my [Portfolio](https://my-protflio-web.vercel.app/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
